@@ -1,5 +1,3 @@
-# Design to dev transition task list
-
 ## ASSETS
 - all image/video/font assets are included in bundle and can be downloaded
 - assets are free for commercial use
@@ -9,8 +7,8 @@
 - if there are multiple states for icons (dark mode, light-dark header etc.), multiple versions are included in bundle. Exeptions are .svg icons which can be transformed in communication with developers.
 
 ## PAGES
-- 404
-- check for font inconssistencies
+- there is 404
+- check for font inconsistences
 - all pages have resposive equivalent. Exeptions can be those who have trivial layout or are easily transferable to mobile experience
 - have a general idea of hover effects, scroll effects and interaction animations
 - linked pages in prototype are nice to have but only if it dosen't take a lot of time
